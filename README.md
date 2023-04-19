@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
