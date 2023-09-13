@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Fix docker.yaml double-quote version bug (#7452)
