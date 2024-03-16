@@ -1,1 +1,1 @@
-Add TF SavedModel Docs Integrations Page (#9162)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
