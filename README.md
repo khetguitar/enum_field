@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
