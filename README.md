@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Add Amazon Sagemaker Docs integrations page (#7293)
